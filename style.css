@@ -1,0 +1,34 @@
+
+}
+  h1{
+  font-size: 100px;
+  margin-top: 30;
+  margin-bottom: 15px;
+  }
+ .music {
+		margin-top: 10px;
+		text-align: justify-all;
+	color:#202020;
+ 		font-size: 20px;
+}
+.music1{
+		margin-top: -10px;
+		text-align: justify;
+	color:#808080;
+}
+
+.1,.2,.3,.4,.5{
+		margin-top: -10px;
+		margin-left: 5px;
+		display: inline-block;
+		border-color: "#000000"
+}
+.kesh,.marias,.clairo,.faye,.men{
+		margin-top:5px;
+		c
+}
+video {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: space-around;
+    }
